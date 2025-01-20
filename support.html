@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Support - EN2477 Career Guidance System</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #F5F5F5;
+    }
+
+    header {
+      background-color: #4A90E2;
+      color: white;
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    header .logo {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+
+    nav {
+      display: flex;
+      gap: 1rem;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-size: 1rem;
+    }
+
+    .sidebar {
+      width: 250px;
+      height: 100vh;
+      background-color: #333333;
+      color: white;
+      position: fixed;
+      top: 0;
+      left: 0;
+      padding: 2rem 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .sidebar a {
+      color: white;
+      text-decoration: none;
+      font-size: 1rem;
+    }
+
+    .content {
+      margin-left: 250px;
+      padding: 2rem;
+    }
+
+    .support-section {
+      background-color: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .support-section h2 {
+      color: #333;
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    .support-cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.5rem;
+      margin-top: 1.5rem;
+    }
+
+    .support-card {
+      background-color: white;
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .support-card h3 {
+      margin: 0;
+      font-size: 1.25rem;
+      color: #333;
+    }
+
+    .support-card p {
+      font-size: 1rem;
+      color: #666;
+      margin: 0.5rem 0;
+    }
+
+    .support-card a {
+      margin-top: 1rem;
+      display: inline-block;
+      padding: 0.5rem 1rem;
+      background-color: #4A90E2;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      text-align: center;
+      font-size: 0.9rem;
+    }
+
+    .support-card a:hover {
+      background-color: #3A78BA;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">EN2477 Career Guide</div>
+    <nav>
+        <a href="home.html">Home</a>
+      <a href="#">Profile</a>
+      <a href="career-pathways.html">Career Pathways</a>
+      <a href="#">Assessment</a>
+      <a href="resource.html">Resources</a>
+      <a href="support.html">Support</a>
+    </nav>
+  </header>
+
+  <div class="sidebar">
+    <a href="#">My Career Path</a>
+    <a href="#">Saved Careers</a>
+    <a href="#">Progress Tracker</a>
+  </div>
+
+  <div class="content">
+    <div class="support-section">
+      <h2>Support & Help</h2>
+      <p>Need assistance? We're here to help you every step of the way!</p>
+      <div class="support-cards">
+        <div class="support-card">
+          <h3>Contact Us</h3>
+          <p>Have questions or need help? Reach out to our support team for assistance.</p>
+          <a href="mailto:support@en2477.com">Email Support</a>
+        </div>
+        <div class="support-card">
+          <h3>FAQs</h3>
+          <p>Find answers to the most frequently asked questions about our platform.</p>
+          <a href="#">View FAQs</a>
+        </div>
+        <div class="support-card">
+          <h3>Technical Support</h3>
+          <p>Facing technical issues? Report a problem, and our team will resolve it quickly.</p>
+          <a href="#">Report an Issue</a>
+        </div>
+        <div class="support-card">
+          <h3>User Guide</h3>
+          <p>Learn how to make the most of our platform with our detailed user guide.</p>
+          <a href="#">Download User Guide</a>
+        </div>
+        <div class="support-card">
+          <h3>Community Forum</h3>
+          <p>Connect with other users, share ideas, and get community-driven solutions.</p>
+          <a href="#">Join the Forum</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
