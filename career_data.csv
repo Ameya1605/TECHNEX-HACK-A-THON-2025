@@ -1,0 +1,486 @@
+age,education_level,skills,interests,career
+22,Undergraduate,Programming,Technology,Software Engineer
+30,Postgraduate,Management,Finance,Financial Analyst
+25,Undergraduate,Design,Art,Graphic Designer
+28,Postgraduate,Programming,Technology,Data Scientist
+35,Postgraduate,Engineering,Technology,Mechanical Engineer
+22,Undergraduate,Medicine,Healthcare,Doctor
+24,Undergraduate,Communication,Media,Journalist
+29,Postgraduate,Management,Technology,Product Manager
+26,Undergraduate,Marketing,Sales,Marketing Specialist
+32,Postgraduate,Engineering,Construction,Civil Engineer
+23,Undergraduate,Data Analysis,Technology,Data Analyst
+27,Undergraduate,Graphic Design,Art,Visual Designer
+34,Postgraduate,Healthcare,Healthcare,Nurse
+33,Postgraduate,Research,Technology,AI Researcher
+31,Postgraduate,Project Management,Technology,IT Project Manager
+24,Undergraduate,Sales,Marketing,Sales Representative
+21,Undergraduate,Engineering,Technology,Electrical Engineer
+30,Postgraduate,Law,Politics,Lawyer
+27,Undergraduate,Teaching,Education,Teacher
+29,Postgraduate,Finance,Economics,Investment Banker
+26,Postgraduate,Healthcare,Healthcare,Pharmacist
+30,Undergraduate,Computer Science,Technology,Systems Analyst
+28,Postgraduate,Marketing,Advertising,Brand Manager
+23,Undergraduate,Engineering,Technology,Civil Engineer
+age,education_level,skills,interests,career
+22,Undergraduate,Programming,Technology,Software Engineer
+23,Undergraduate,Design,Art,Graphic Designer
+24,Postgraduate,Management,Finance,Financial Analyst
+25,Postgraduate,Programming,Technology,Data Scientist
+26,Undergraduate,Design,Art,Visual Designer
+27,Postgraduate,Engineering,Technology,Mechanical Engineer
+28,Undergraduate,Marketing,Sales,Marketing Specialist
+29,Postgraduate,Healthcare,Healthcare,Doctor
+30,Postgraduate,Engineering,Technology,Electrical Engineer
+31,Undergraduate,Programming,Technology,Systems Analyst
+32,Postgraduate,Healthcare,Healthcare,Pharmacist
+33,Postgraduate,Engineering,Technology,Civil Engineer
+34,Undergraduate,Sales,Marketing,Sales Representative
+35,Postgraduate,Law,Politics,Lawyer
+36,Undergraduate,Project Management,Technology,IT Project Manager
+37,Postgraduate,Finance,Economics,Investment Banker
+38,Postgraduate,Healthcare,Healthcare,Nurse
+39,Undergraduate,Communication,Media,Journalist
+40,Postgraduate,Research,Technology,AI Researcher
+41,Undergraduate,Teaching,Education,Teacher
+22	Undergraduate	Programming	Technology	Software Engineer
+30	Postgraduate	Management	Finance	Financial Analyst
+25	Undergraduate	Design	Art	Graphic Designer
+28	Postgraduate	Programming	Technology	Data Scientist
+35	Postgraduate	Engineering	Technology	Mechanical Engineer
+22	Undergraduate	Medicine	Healthcare	Doctor
+24	Undergraduate	Communication	Media	Journalist
+29	Postgraduate	Management	Technology	Product Manager
+26	Undergraduate	Marketing	Sales	Marketing Specialist
+32	Postgraduate	Engineering	Construction	Civil Engineer
+23	Undergraduate	Data Analysis	Technology	Data Analyst
+27	Undergraduate	Graphic Design	Art	Visual Designer
+34	Postgraduate	Healthcare	Healthcare	Nurse
+33	Postgraduate	Research	Technology	AI Researcher
+31	Postgraduate	Project Management	Technology	IT Project Manager
+24	Undergraduate	Sales	Marketing	Sales Representative
+21	Undergraduate	Engineering	Technology	Electrical Engineer
+30	Postgraduate	Law	Politics	Lawyer
+27	Undergraduate	Teaching	Education	Teacher
+29	Postgraduate	Finance	Economics	Investment Banker
+26	Postgraduate	Healthcare	Healthcare	Pharmacist
+30	Undergraduate	Computer Science	Technology	Systems Analyst
+28	Postgraduate	Marketing	Advertising	Brand Manager
+23	Undergraduate	Engineering	Technology	Civil Engineer
+38	Postgraduate	Healthcare	Healthcare	Nurse
+39	Undergraduate	Communication	Media	Journalist
+25	Postgraduate	Research	Technology	Machine Learning Engineer
+36	Postgraduate	Data Analysis	Finance	Business Analyst
+40	Postgraduate	Engineering	Renewable Energy	Energy Consultant
+28	Undergraduate	Marketing	Media	Digital Marketer
+24	Undergraduate	Programming	Gaming	Game Developer
+Age,Education Level,Skills,Interests,Career
+22,High School,Programming,Technology,Software Engineer
+30,Postgraduate,Management,Finance,Financial Analyst
+25,Undergraduate,Design,Art,Graphic Designer
+28,Postgraduate,Programming,Technology,Data Scientist
+35,Postgraduate,Engineering,Technology,Mechanical Engineer
+22,Undergraduate,Medicine,Healthcare,Doctor
+24,Undergraduate,Communication,Media,Journalist
+29,Postgraduate,Management,Technology,Product Manager
+26,Undergraduate,Marketing,Sales,Marketing Specialist
+32,Postgraduate,Engineering,Construction,Civil Engineer
+23,Undergraduate,Data Analysis,Technology,Data Analyst
+27,Undergraduate,Graphic Design,Art,Visual Designer
+34,Postgraduate,Healthcare,Healthcare,Nurse
+33,Postgraduate,Research,Technology,AI Researcher
+31,Postgraduate,Project Management,Technology,IT Project Manager
+24,Undergraduate,Sales,Marketing,Sales Representative
+21,Undergraduate,Engineering,Technology,Electrical Engineer
+30,Postgraduate,Law,Politics,Lawyer
+27,Undergraduate,Teaching,Education,Teacher
+29,Postgraduate,Finance,Economics,Investment Banker
+26,Postgraduate,Healthcare,Healthcare,Pharmacist
+30,Undergraduate,Computer Science,Technology,Systems Analyst
+28,Postgraduate,Marketing,Advertising,Brand Manager
+23,Undergraduate,Engineering,Technology,Civil Engineer
+38,Postgraduate,Healthcare,Healthcare,Nurse
+39,Undergraduate,Communication,Media,Journalist
+25,Postgraduate,Research,Technology,Machine Learning Engineer
+36,Postgraduate,Data Analysis,Finance,Business Analyst
+40,Postgraduate,Engineering,Renewable Energy,Energy Consultant
+28,Undergraduate,Marketing,Media,Digital Marketer
+24,Undergraduate,Programming,Gaming,Game Developer
+Age,Education Level,Skills,Interests,Career
+17,High School,Art and Creativity,Design,Graphic Artist
+18,High School,Coding Basics,Technology,Junior Web Developer
+16,High School,Public Speaking,Communication,Social Media Manager
+17,High School,Writing,Journalism,Content Creator
+18,High School,Mathematics,Finance,Data Entry Clerk
+17,High School,Science Experiments,Healthcare,Lab Assistant
+16,High School,Problem Solving,Engineering,Technical Intern
+18,High School,Event Planning,Media,Event Coordinator
+17,High School,Customer Service,Sales,Retail Associate
+16,High School,Photography,Art,Freelance Photographer
+Age,Education Level,Skills,Interests,Career
+16,High School,Art and Creativity,Design,Graphic Artist
+17,High School,Coding Basics,Technology,Junior Web Developer
+18,High School,Public Speaking,Communication,Social Media Manager
+16,High School,Writing,Journalism,Content Creator
+17,High School,Mathematics,Finance,Data Entry Clerk
+16,High School,Science Experiments,Healthcare,Lab Assistant
+17,High School,Problem Solving,Engineering,Technical Intern
+18,High School,Event Planning,Media,Event Coordinator
+16,High School,Customer Service,Sales,Retail Associate
+17,High School,Photography,Art,Freelance Photographer
+18,High School,Teamwork,Sports,Assistant Coach
+17,High School,Video Editing,Media,Video Editor Intern
+16,High School,Organizational Skills,Administration,Office Assistant
+18,High School,Teaching,Education,Tutor
+17,High School,Creativity and Crafting,Art,Handmade Product Seller
+16,High School,Cooking,Food,Kitchen Assistant
+17,High School,Mechanical Skills,Technology,Apprentice Mechanic
+18,High School,Social Skills,Healthcare,Patient Care Assistant
+16,High School,Gaming and Strategy,Technology,Game Tester
+17,High School,Analytical Thinking,Research,Research Assistant
+16,High School,Musical Talent,Music,Instrumental Teacher
+18,High School,Dancing,Performing Arts,Dance Instructor
+17,High School,Animal Care,Wildlife,Pet Groomer
+16,High School,Language Skills,Communication,Translator Intern
+Age,Education Level,Skills,Interests,Career
+20,Undergraduate,Programming,Technology,Software Developer Intern
+21,Undergraduate,Data Analysis,Finance,Junior Data Analyst
+22,Undergraduate,Design,Art,Graphic Designer
+19,Undergraduate,Public Speaking,Communication,Marketing Assistant
+20,Undergraduate,Teamwork,Sports,Sports Coach
+21,Undergraduate,Writing,Journalism,Content Writer
+22,Undergraduate,Social Media Management,Media,Digital Marketing Specialist
+19,Undergraduate,Problem Solving,Engineering,Junior Engineer
+20,Undergraduate,Research Skills,Healthcare,Clinical Research Assistant
+21,Undergraduate,Teaching,Education,Teaching Assistant
+22,Undergraduate,Event Planning,Hospitality,Event Coordinator
+20,Undergraduate,Customer Relations,Sales,Sales Representative
+19,Undergraduate,Photography,Art,Photographer
+21,Undergraduate,Creativity,Design,UI/UX Designer
+22,Undergraduate,Analytical Thinking,Technology,Data Scientist Intern
+20,Undergraduate,Language Skills,Translation,Translator
+21,Undergraduate,Organizational Skills,Administration,Administrative Assistant
+22,Undergraduate,Music Production,Music,Music Producer
+19,Undergraduate,Networking,Technology,IT Support Specialist
+20,Undergraduate,Leadership,Management,Operations Coordinator
+21,Undergraduate,Cooking,Food,Culinary Assistant
+22,Undergraduate,Writing,Publishing,Technical Writer
+20,Undergraduate,Video Editing,Media,Video Editor
+19,Undergraduate,Animal Care,Wildlife,Veterinary Assistant
+21,Undergraduate,Entrepreneurship,Business,Startup Founder
+22,Undergraduate,Illustration,Art,Freelance Illustrator
+20,Undergraduate,Software Development,Technology,Mobile App Developer
+21,Undergraduate,SEO Optimization,Media,SEO Specialist
+19,Undergraduate,Scientific Research,Science,Laboratory Technician
+22,Undergraduate,Critical Thinking,Law,Legal Assistant
+Age,Education Level,Skills,Interests,Career
+20,Undergraduate,Programming,Technology,Software Developer Intern
+21,Undergraduate,Data Analysis,Finance,Junior Data Analyst
+22,Undergraduate,Design,Art,Graphic Designer
+19,Undergraduate,Public Speaking,Communication,Marketing Assistant
+20,Undergraduate,Teamwork,Sports,Sports Coach
+21,Undergraduate,Writing,Journalism,Content Writer
+22,Undergraduate,Social Media Management,Media,Digital Marketing Specialist
+19,Undergraduate,Problem Solving,Engineering,Junior Engineer
+20,Undergraduate,Research Skills,Healthcare,Clinical Research Assistant
+21,Undergraduate,Teaching,Education,Teaching Assistant
+22,Undergraduate,Event Planning,Hospitality,Event Coordinator
+20,Undergraduate,Customer Relations,Sales,Sales Representative
+19,Undergraduate,Photography,Art,Photographer
+21,Undergraduate,Creativity,Design,UI/UX Designer
+22,Undergraduate,Analytical Thinking,Technology,Data Scientist Intern
+20,Undergraduate,Language Skills,Translation,Translator
+21,Undergraduate,Organizational Skills,Administration,Administrative Assistant
+22,Undergraduate,Music Production,Music,Music Producer
+19,Undergraduate,Networking,Technology,IT Support Specialist
+20,Undergraduate,Leadership,Management,Operations Coordinator
+21,Undergraduate,Cooking,Food,Culinary Assistant
+22,Undergraduate,Writing,Publishing,Technical Writer
+20,Undergraduate,Video Editing,Media,Video Editor
+19,Undergraduate,Animal Care,Wildlife,Veterinary Assistant
+21,Undergraduate,Entrepreneurship,Business,Startup Founder
+22,Undergraduate,Illustration,Art,Freelance Illustrator
+20,Undergraduate,Software Development,Technology,Mobile App Developer
+21,Undergraduate,SEO Optimization,Media,SEO Specialist
+19,Undergraduate,Scientific Research,Science,Laboratory Technician
+22,Undergraduate,Critical Thinking,Law,Legal Assistant
+20,Undergraduate,Physics,Space Exploration,Space Research Intern
+21,Undergraduate,Community Engagement,Non-Profit,Volunteer Coordinator
+22,Undergraduate,Economics,Finance,Investment Analyst Intern
+19,Undergraduate,Mechanical Skills,Engineering,Automotive Engineer Intern
+20,Undergraduate,Crisis Management,Healthcare,Emergency Medical Technician
+21,Undergraduate,Artistic Creativity,Entertainment,Set Designer
+22,Undergraduate,Robotics,Technology,Robotics Engineer Intern
+20,Undergraduate,Journalistic Writing,Media,News Reporter
+21,Undergraduate,Chemical Analysis,Science,Chemistry Lab Technician
+22,Undergraduate,Business Strategy,Business,Business Analyst Intern
+19,Undergraduate,Game Design,Technology,Game Developer
+20,Undergraduate,Environmental Science,Nature,Environmental Consultant Intern
+21,Undergraduate,Healthcare Management,Healthcare,Hospital Administrator Assistant
+22,Undergraduate,Digital Illustration,Art,Graphic Animator
+19,Undergraduate,Construction Management,Engineering,Site Supervisor Intern
+20,Undergraduate,Database Management,Technology,Database Administrator Intern
+21,Undergraduate,Marketing Analytics,Business,Marketing Research Analyst
+22,Undergraduate,Legal Research,Law,Paralegal Assistant
+Age,Education Level,Skills,Interests,Career
+21,Undergraduate,Cybersecurity,Technology,Cybersecurity Analyst Intern
+22,Undergraduate,Econometrics,Finance,Quantitative Analyst Intern
+20,Undergraduate,Creative Writing,Literature,Novelist
+21,Undergraduate,Public Health,Healthcare,Community Health Educator
+19,Undergraduate,Sustainable Design,Environment,Green Building Consultant
+22,Undergraduate,AI Development,Technology,Machine Learning Intern
+20,Undergraduate,Ethical Hacking,Technology,Penetration Tester Intern
+21,Undergraduate,Supply Chain Management,Business,Logistics Coordinator
+22,Undergraduate,Human Resources,Business,HR Assistant
+19,Undergraduate,Foreign Languages,Culture,Language Tutor
+20,Undergraduate,3D Modeling,Design,Game Asset Designer
+21,Undergraduate,Archaeology,History,Archaeological Assistant
+22,Undergraduate,Public Policy,Politics,Policy Analyst Intern
+19,Undergraduate,Photography,Wildlife,Wildlife Photographer
+20,Undergraduate,Sound Engineering,Music,Audio Engineer Intern
+21,Undergraduate,App Development,Technology,Frontend Developer Intern
+22,Undergraduate,Film Editing,Media,Film Editor
+19,Undergraduate,Social Psychology,Research,Behavioral Research Assistant
+20,Undergraduate,Drone Operation,Technology,Drone Pilot Intern
+21,Undergraduate,Geographic Information Systems,Environment,Cartographer
+22,Undergraduate,Event Marketing,Hospitality,Event Promotions Coordinator
+19,Undergraduate,Coding for Web,Technology,Junior Full Stack Developer
+20,Undergraduate,Conflict Resolution,Law,Mediator Assistant
+21,Undergraduate,Renewable Energy,Environment,Wind Energy Technician
+22,Undergraduate,Health Informatics,Healthcare,Healthcare IT Specialist
+19,Undergraduate,Painting,Art,Visual Artist
+20,Undergraduate,Fashion Design,Style,Fashion Stylist Assistant
+21,Undergraduate,Aviation,Technology,Flight Operations Specialist
+22,Undergraduate,Social Work,Non-Profit,Social Work Intern
+19,Undergraduate,Blockchain Development,Finance,Blockchain Developer Intern
+20,Undergraduate,Virtual Reality Design,Technology,VR Experience Designer
+21,Undergraduate,Zoology,Wildlife,Zoo Educator
+22,Undergraduate,Marine Biology,Science,Marine Research Assistant
+19,Undergraduate,E-commerce,Sales,E-commerce Manager Assistant
+20,Undergraduate,Interior Design,Art,Junior Interior Designer
+21,Undergraduate,Podcast Production,Media,Podcast Producer
+22,Undergraduate,Ethnography,Anthropology,Research Assistant in Anthropology
+19,Undergraduate,Forensic Science,Criminology,Forensic Lab Technician
+20,Undergraduate,Cultural Studies,Humanities,Museum Curator Assistant
+21,Undergraduate,Nanotechnology,Engineering,Nanotech Research Assistant
+22,Undergraduate,Digital Marketing Strategies,Media,PPC Campaign Specialist
+19,Undergraduate,Animation,Art,2D Animator
+20,Undergraduate,Video Game Testing,Technology,Quality Assurance Tester
+21,Undergraduate,Biology,Science,Genetics Research Intern
+22,Undergraduate,Public Relations,Media,PR Coordinator
+19,Undergraduate,Robotics Programming,Technology,Mechatronics Intern
+20,Undergraduate,Real Estate Marketing,Business,Real Estate Agent Assistant
+21,Undergraduate,Food Science,Science,Food Technologist
+22,Undergraduate,Agricultural Studies,Environment,Agricultural Consultant
+Age,Education Level,Skills,Interests,Career
+20,Undergraduate,3D Printing,Engineering,3D Printing Technician
+21,Undergraduate,Neuroscience,Healthcare,Neuropsychology Intern
+22,Undergraduate,Urban Planning,Environment,Urban Planner Assistant
+19,Undergraduate,Coding for AI,Technology,AI Algorithm Developer
+20,Undergraduate,Game Theory,Mathematics,Game Economist
+21,Undergraduate,Web Analytics,Media,Web Analytics Specialist
+22,Undergraduate,Oceanography,Science,Marine Conservationist
+19,Undergraduate,Cartooning,Art,Comic Book Illustrator
+20,Undergraduate,Public Speaking,Politics,Political Campaign Intern
+21,Undergraduate,Autonomous Systems,Technology,Self-Driving Car Engineer
+22,Undergraduate,Agronomy,Agriculture,Soil Scientist Intern
+19,Undergraduate,Podcast Hosting,Media,Podcast Host
+20,Undergraduate,Ethical AI,Technology,AI Ethics Specialist
+21,Undergraduate,Scientific Writing,Science,Journal Article Editor
+22,Undergraduate,Renewable Materials,Environment,Sustainable Materials Specialist
+19,Undergraduate,Forensic Accounting,Finance,Audit Assistant
+20,Undergraduate,Cyberpsychology,Humanities,Research Assistant in Cyberpsychology
+21,Undergraduate,Cloud Computing,Technology,Cloud Solutions Intern
+22,Undergraduate,Ethical Sourcing,Supply Chain,Ethical Sourcing Coordinator
+19,Undergraduate,Music Composition,Music,Composer
+20,Undergraduate,Space Exploration,Science,Astrobiology Research Assistant
+21,Undergraduate,Plant Pathology,Agriculture,Plant Disease Specialist
+22,Undergraduate,Wildlife Conservation,Environment,Wildlife Ranger
+19,Undergraduate,Financial Planning,Finance,Junior Financial Planner
+20,Undergraduate,Legal Writing,Law,Legal Documentation Specialist
+21,Undergraduate,Augmented Reality,Technology,AR Experience Developer
+22,Undergraduate,Park Management,Environment,National Park Ranger
+19,Undergraduate,Bioinformatics,Science,Genomic Data Analyst
+20,Undergraduate,Film Direction,Media,Assistant Director
+21,Undergraduate,Game Art Design,Technology,Game Environment Artist
+22,Undergraduate,Sports Analytics,Sports,Sports Statistician
+19,Undergraduate,Virtual Collaboration,Technology,Remote Collaboration Coordinator
+20,Undergraduate,Behavioral Analytics,Psychology,Behavioral Analyst Intern
+21,Undergraduate,Digital Storytelling,Media,Interactive Content Creator
+22,Undergraduate,Wildlife Filmmaking,Media,Nature Documentary Filmmaker
+19,Undergraduate,Astrophysics,Science,Observatory Assistant
+20,Undergraduate,Remote Sensing,Environment,Satellite Image Analyst
+21,Undergraduate,Pharmaceutical Research,Science,Drug Development Intern
+22,Undergraduate,Social Entrepreneurship,Business,Impact Venture Coordinator
+19,Undergraduate,Library Science,Education,Digital Archivist
+20,Undergraduate,Speech Therapy,Healthcare,Speech Therapy Assistant
+21,Undergraduate,Innovation Management,Business,Innovation Strategist
+22,Undergraduate,Virtual Assistant Technology,Technology,Virtual Assistant Developer
+19,Undergraduate,Cultural Heritage Studies,History,Historical Preservation Intern
+20,Undergraduate,Language Translation,Communication,Localization Specialist
+21,Undergraduate,Interactive Design,Art,Interactive Exhibit Designer
+22,Undergraduate,Sustainable Tourism,Environment,Eco-tourism Coordinator
+19,Undergraduate,Public Relations Campaigns,Media,PR Strategist
+20,Undergraduate,Environmental Advocacy,Non-Profit,Environmental Policy Advocate
+21,Undergraduate,Medical Imaging,Healthcare,Radiology Technician Intern
+22,Undergraduate,Textile Design,Art,Fabric Pattern Designer
+19,Undergraduate,Biostatistics,Science,Health Data Analyst
+20,Undergraduate,AI-Powered Robotics,Technology,Autonomous Robotics Specialist
+21,Undergraduate,Food Waste Management,Environment,Food Systems Coordinator
+22,Undergraduate,Performance Arts,Entertainment,Theater Performer
+Age,Education Level,Skills,Interests,Career
+26,Postgraduate,Data Mining,Technology,Big Data Analyst
+27,Postgraduate,Neuroinformatics,Healthcare,Neuroscience Researcher
+28,Postgraduate,Urban Sustainability,Environment,Sustainable City Planner
+29,Postgraduate,Natural Language Processing,Technology,NLP Specialist
+30,Postgraduate,Financial Modelling,Finance,Quantitative Analyst
+31,Postgraduate,Cancer Genomics,Science,Cancer Research Scientist
+32,Postgraduate,Corporate Law,Law,Corporate Lawyer
+26,Postgraduate,Cloud Security,Technology,Cloud Security Architect
+27,Postgraduate,Renewable Energy Systems,Engineering,Renewable Energy Consultant
+28,Postgraduate,Medical Device Design,Healthcare,Biomedical Engineer
+29,Postgraduate,Machine Learning Operations,Technology,ML Ops Engineer
+30,Postgraduate,Cybersecurity Forensics,Technology,Cybercrime Investigator
+31,Postgraduate,Ecological Restoration,Environment,Restoration Ecologist
+32,Postgraduate,Digital Marketing Strategies,Media,Digital Marketing Director
+26,Postgraduate,Advanced Robotics,Engineering,Robotics Research Scientist
+27,Postgraduate,Pharmaceutical Formulation,Science,Pharmacologist
+28,Postgraduate,International Relations,Politics,Diplomatic Consultant
+29,Postgraduate,Behavioral Economics,Finance,Behavioral Economist
+30,Postgraduate,Environmental Ethics,Humanities,Ethics Consultant
+31,Postgraduate,Astrophysics Simulation,Science,Astrophysics Research Fellow
+32,Postgraduate,Supply Chain Optimization,Business,Operations Manager
+26,Postgraduate,Human-Computer Interaction,Technology,HCI Researcher
+27,Postgraduate,Aerospace Engineering,Engineering,Aerospace Systems Analyst
+28,Postgraduate,Food Chemistry,Science,Food Technologist
+29,Postgraduate,Industrial Design,Art,Product Designer
+30,Postgraduate,Health Informatics,Healthcare,Healthcare Data Specialist
+31,Postgraduate,Conflict Resolution,Humanities,Mediation Specialist
+32,Postgraduate,Energy Policy,Politics,Energy Policy Advisor
+26,Postgraduate,Augmented Reality Development,Technology,AR Systems Developer
+27,Postgraduate,Genetic Engineering,Science,Genetic Research Scientist
+28,Postgraduate,Marine Biology,Environment,Marine Biologist
+29,Postgraduate,Blockchain Applications,Technology,Blockchain Solutions Architect
+30,Postgraduate,Creative Writing,Art,Published Author
+31,Postgraduate,Educational Leadership,Education,Dean of Students
+32,Postgraduate,Medical Physics,Healthcare,Medical Physicist
+26,Postgraduate,Bioethics,Healthcare,Bioethics Advisor
+27,Postgraduate,Agribusiness,Economics,Agribusiness Manager
+28,Postgraduate,UX Design,Technology,User Experience Designer
+29,Postgraduate,Environmental Legislation,Law,Environmental Lawyer
+30,Postgraduate,Digital Humanities,Humanities,Digital Archivist
+31,Postgraduate,Artificial Organ Design,Engineering,Biomedical Device Developer
+32,Postgraduate,Ocean Engineering,Environment,Marine Systems Engineer
+26,Postgraduate,Quantum Computing,Technology,Quantum Systems Researcher
+27,Postgraduate,Public Health Policy,Healthcare,Public Health Consultant
+28,Postgraduate,Film Studies,Media,Film Critic
+29,Postgraduate,Geospatial Analysis,Science,Geographic Information Systems Specialist
+30,Postgraduate,Industrial Automation,Engineering,Automation Engineer
+31,Postgraduate,Psychiatry,Healthcare,Psychiatrist
+32,Postgraduate,Space Law,Law,Space Policy Advisor
+26,Postgraduate,Social Media Analytics,Media,Social Media Analyst
+27,Postgraduate,Cultural Anthropology,Humanities,Anthropologist
+28,Postgraduate,Hydrology,Environment,Water Resources Specialist
+29,Postgraduate,Sports Psychology,Sports,Sports Psychologist
+30,Postgraduate,Medical Robotics,Technology,Medical Robotics Engineer
+31,Postgraduate,Renewable Agriculture,Environment,Sustainable Farming Advisor
+32,Postgraduate,Interactive Media,Technology,Multimedia Producer
+Age,Education Level,Skills,Interests,Career
+27,Postgraduate,Advanced Econometrics,Finance,Econometric Analyst
+28,Postgraduate,Space Systems Engineering,Engineering,Aerospace Program Manager
+29,Postgraduate,Digital Sculpting,Art,3D Modeler
+30,Postgraduate,Disaster Risk Management,Environment,Disaster Management Specialist
+31,Postgraduate,Ethical AI,Technology,AI Ethics Consultant
+32,Postgraduate,Plant Genetics,Science,Agricultural Geneticist
+33,Postgraduate,Game Theory,Mathematics,Game Theorist
+27,Postgraduate,Performance Optimization,Technology,Software Performance Engineer
+28,Postgraduate,Wildlife Conservation,Environment,Wildlife Conservationist
+29,Postgraduate,Virtual Reality Filmmaking,Media,VR Content Producer
+30,Postgraduate,Behavioral Data Analysis,Science,Behavioral Data Scientist
+31,Postgraduate,Clinical Pharmacology,Healthcare,Clinical Pharmacist
+32,Postgraduate,Construction Management,Engineering,Construction Project Manager
+33,Postgraduate,Public Speaking,Education,Professional Speaker
+27,Postgraduate,Energy Grid Modeling,Engineering,Energy Systems Engineer
+28,Postgraduate,Chemical Process Simulation,Science,Process Design Engineer
+29,Postgraduate,Digital Currency Technology,Technology,Cryptocurrency Analyst
+30,Postgraduate,Speech Pathology,Healthcare,Speech Therapist
+31,Postgraduate,Advanced Ceramic Engineering,Engineering,Ceramic Materials Scientist
+32,Postgraduate,Global Trade Law,Law,International Trade Lawyer
+33,Postgraduate,Astrobiology,Science,Astrobiologist
+27,Postgraduate,Supply Chain Analytics,Business,Supply Chain Analyst
+28,Postgraduate,Green Architecture,Engineering,LEED-Certified Architect
+29,Postgraduate,Bioinformatics,Science,Bioinformatics Specialist
+30,Postgraduate,Event Management,Media,Event Coordinator
+31,Postgraduate,Renewable Energy Law,Law,Renewable Energy Policy Advisor
+32,Postgraduate,Aquaculture,Environment,Aquaculture Specialist
+33,Postgraduate,Language Processing,Technology,Speech Recognition Scientist
+27,Postgraduate,Food Safety Management,Healthcare,Food Safety Officer
+28,Postgraduate,Creative Media Production,Art,Creative Director
+29,Postgraduate,IoT Security,Technology,IoT Security Analyst
+30,Postgraduate,Urban Wildlife Management,Environment,Urban Ecologist
+31,Postgraduate,Financial Risk Assessment,Finance,Risk Manager
+32,Postgraduate,Global Health Studies,Healthcare,Global Health Specialist
+33,Postgraduate,Neurosurgery Techniques,Healthcare,Neurosurgeon
+27,Postgraduate,Satellite Systems,Technology,Satellite Communications Engineer
+28,Postgraduate,AI-Powered Design,Art,Generative Design Engineer
+29,Postgraduate,Environmental Monitoring,Environment,Environmental Data Scientist
+30,Postgraduate,Learning Analytics,Education,Learning Technologist
+31,Postgraduate,Organic Farming,Environment,Organic Farming Consultant
+32,Postgraduate,Sports Analytics,Sports,Sports Data Analyst
+33,Postgraduate,Luxury Brand Management,Business,Luxury Brand Strategist
+27,Postgraduate,Marine Engineering,Engineering,Naval Architect
+28,Postgraduate,Telemedicine Systems,Healthcare,Telehealth Coordinator
+29,Postgraduate,Immigration Law,Law,Immigration Policy Advisor
+30,Postgraduate,Advanced Photonics,Science,Photonics Researcher
+31,Postgraduate,Forensic Anthropology,Science,Forensic Anthropologist
+32,Postgraduate,International Marketing,Business,Global Marketing Manager
+33,Postgraduate,E-Sports Management,Sports,E-Sports Manager
+27,Postgraduate,Material Science Innovation,Science,Materials Research Scientist
+28,Postgraduate,Sustainable Fashion Design,Art,Sustainable Fashion Designer
+29,Postgraduate,Hydropower Engineering,Engineering,Hydropower Project Engineer
+30,Postgraduate,Medical Imaging,Healthcare,Radiology Specialist
+31,Postgraduate,Cultural Heritage Preservation,Humanities,Museum Curator
+32,Postgraduate,Climate Advocacy,Environment,Climate Policy Advisor
+33,Postgraduate,Autonomous Systems,Technology,Autonomous Vehicle Engineer
+Age,Education Level,Skills,Interests,Career
+18,High School,Creative Writing,Literature,Writer
+22,Undergraduate,Programming,Technology,Software Developer
+27,Postgraduate,Ethical AI,Technology,AI Ethics Consultant
+19,High School,Photography,Media,Photographer
+25,Undergraduate,Graphic Design,Art,Graphic Designer
+30,Postgraduate,Renewable Energy Law,Environment,Renewable Energy Policy Advisor
+20,High School,Carpentry,Design,Woodworker
+23,Undergraduate,Communication,Media,Journalist
+28,Postgraduate,Bioinformatics,Science,Bioinformatics Specialist
+17,High School,Baking,Culinary,Pastry Chef
+24,Undergraduate,Management,Finance,Business Analyst
+31,Postgraduate,Aquaculture,Environment,Aquaculture Specialist
+18,High School,Acting,Performing Arts,Actor
+26,Undergraduate,Engineering,Technology,Mechanical Engineer
+29,Postgraduate,Global Trade Law,Law,International Trade Lawyer
+16,High School,Robotics,Technology,Robotics Enthusiast
+21,Undergraduate,Medicine,Healthcare,Doctor
+32,Postgraduate,Wildlife Conservation,Environment,Wildlife Conservationist
+18,High School,Sketching,Art,Illustrator
+22,Undergraduate,Event Planning,Media,Event Coordinator
+33,Postgraduate,Autonomous Systems,Technology,Autonomous Vehicle Engineer
+19,High School,Public Speaking,Leadership,Debater
+27,Undergraduate,Marketing,Technology,Digital Marketer
+28,Postgraduate,Space Systems Engineering,Engineering,Aerospace Program Manager
+17,High School,Journalism,Media,Content Creator
+25,Undergraduate,Data Analysis,Science,Data Analyst
+30,Postgraduate,Climate Advocacy,Environment,Climate Policy Advisor
+18,High School,Dance,Performing Arts,Dancer
+22,Undergraduate,Chemistry,Science,Lab Technician
+31,Postgraduate,Sustainable Fashion Design,Art,Sustainable Fashion Designer
+20,High School,Problem Solving,Mathematics,Math Tutor
+24,Undergraduate,Language Translation,Communication,Translator
+32,Postgraduate,Clinical Pharmacology,Healthcare,Clinical Pharmacist
+19,High School,Coding,Technology,Junior Web Developer
+23,Undergraduate,Economics,Finance,Investment Analyst
+33,Postgraduate,Learning Analytics,Education,Learning Technologist
+18,High School,Animal Care,Environment,Veterinary Assistant
+26,Undergraduate,Architecture,Design,Architect
+29,Postgraduate,Digital Sculpting,Art,3D Modeler
+
